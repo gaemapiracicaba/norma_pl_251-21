@@ -1,0 +1,20 @@
+[project]
+name = "norma-pl-251-21"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "requests",
+    "folium",
+    "numpy",
+    "seaborn",
+    "geopandas",
+    #"GDAL",
+    "beautifulsoup4",
+    "matplotlib",
+    "plotly",
+    "notebook>=7.5.5",
+    "open-geodata>=25.9.32",
+]

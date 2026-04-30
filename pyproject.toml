@@ -15,6 +15,6 @@ dependencies = [
     "beautifulsoup4",
     "matplotlib",
     "plotly",
-    "notebook>=7.5.5",
+    "notebook>=7.5.6",
     "open-geodata>=25.9.32",
 ]
